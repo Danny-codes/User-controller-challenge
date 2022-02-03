@@ -1,0 +1,45 @@
+.errorField{
+    position: fixed;
+    top: 30vh;
+    left: 10%;
+    width: 80%;
+    z-index: 100;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.header{
+    background-color: purple;
+    padding-bottom: 20px;
+    padding:10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.p{
+    margin: 5px;
+    padding:10px;
+    padding-bottom: 80px;
+
+}
+
+.button{
+    float: right;
+    margin: 10px;
+}
+
+.background{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.75);
+}
+
+.span{
+    clear: both;
+}
