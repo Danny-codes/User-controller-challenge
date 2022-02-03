@@ -1,0 +1,9 @@
+.inputCard {
+    justify-content: center;
+    display: flex;
+    background-color: #fff;
+    width: 50vw;
+    margin: 20px auto;
+    border-radius: 10px;;
+    padding: 8px;
+}

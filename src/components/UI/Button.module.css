@@ -1,0 +1,12 @@
+.button{
+    color: #fff;
+    background-color: purple;
+    height: 30px;
+    width: 90px;
+    border-radius: 7px;
+    border: none;
+}
+
+.button:hover{
+    background-color: rgb(177, 40, 177);
+}
